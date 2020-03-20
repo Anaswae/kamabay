@@ -9,4 +9,4 @@ how to run kamabay!
 - source KAMABAY/bin/activate
 - python3 kamabay.py
 - update
--help
+- help
